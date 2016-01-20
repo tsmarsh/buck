@@ -4,7 +4,8 @@ Buck
 Buck is a build tool. To see what Buck can do for you,
 check out the documentation at <http://buckbuild.com/>.
 
-[![Build Status](https://travis-ci.org/facebook/buck.svg)](https://travis-ci.org/facebook/buck)
+[![Build Status](https://travis-ci.org/tsmarsh/buck.svg?branch=master)](https://travis-ci.org/tsmarsh/buck)
+
 
 Installation
 ------------
